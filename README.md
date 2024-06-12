@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Mani Setharasipalli
-- 👀 I’m interested in Data Analyst Roles
-- 🌱 I’m currently learning Statistics for Data Analysis and Visualization Techniques
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/manisetharasipalli)
-- 💻 I love SQL, Python, and Statistics—turning Raw Data into Information to gain insights. 
+# Mani Setharasipalli
 
+👋 Hi, I’m Mani Setharasipalli
+
+👀 I’m interested in Developer Roles like Web Developer, Python Developer, JavaScript Developer, and Frontend Developer.
+
+🌱 I’m currently learning React.js and Python web development framework (Django), and recently learned Flask.
+
+📫 How to reach me [LinkedIn](https://www.linkedin.com/in/manisetharasipalli)
+
+💻 I love Python and JavaScript and am passionate about leveraging them to build impactful applications and solutions.
